@@ -9,4 +9,5 @@ function linearSearch(arr,target) {
 }
 
 console.log(linearSearch(number, 3));
-console.log(linearSearch(number, 1))
+console.log(linearSearch(number, 1));
+console.log(linearSearch(number, "h"));
